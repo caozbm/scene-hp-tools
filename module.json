@@ -15,5 +15,8 @@
   ],
   "esmodules": [
     "scenehp.js"
-  ]
+  ],   
+  "url": "https://github.com/caozbm/scene-hp-tools/",
+  "download": "https://github.com/caozbm/scene-hp-tools/archive/refs/tags/0.1.1.zip",
+  "manifest": "https://github.com/caozbm/scene-hp-tools/releases/latest/download/module.json"
 }
