@@ -1,0 +1,20 @@
+{
+  "id": "scene-hp-tools",
+  "title": "Scene HP Tools",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>My Scene HP Tools</p>",
+  "authors": [
+    {
+      "name": "Caozbm",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scenehp.js"
+  ],
+  "url": "http://caozbm.com/mycaozbm.caolin"
+}
